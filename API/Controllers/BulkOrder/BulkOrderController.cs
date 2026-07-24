@@ -7,7 +7,7 @@ namespace API.Controllers.BulkOrder
 {
     [Authorize]
     [Route("api/[controller]")]
-    public class BulkOrderController : BaseController
+    public class BulkOrderController : BaseController 
     {
         private IBulkOrderRepository BulkOrderRepository =>
             GetService<IBulkOrderRepository>();
