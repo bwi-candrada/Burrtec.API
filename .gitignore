@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/API/bin
+/.vs/Dev/CopilotIndices/17.14.1577.30250
+/.vs/Dev/FileContentIndex
+/.vs/Dev/v17
+/.vs
+/API/obj
+/API/Properties/PublishProfiles
+/Data/bin
+/Data/obj
+/Domain/bin
+/Domain/obj
